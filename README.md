@@ -1,7 +1,7 @@
 ## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
  <div>
-   <a href="https://github.com/devRafinha-henrique">
+   <a href="https://github.com/Rafinha-henrique">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafinha-henrique&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafinha-henrique&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
